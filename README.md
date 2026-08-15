@@ -34,7 +34,5 @@ I practice problems from LeetCode and other coding platforms to improve my probl
    Java
    
 ## Goal
-Build strong foundations in Data Structures & Algorithms, improve problem-solving skills, and prepare for software development placements.
-## Goal
 
 Build strong foundations in Data Structures & Algorithms, improve problem-solving skills, and prepare for software development placements.
