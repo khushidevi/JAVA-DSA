@@ -30,3 +30,7 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 - Shuffle the Array
 - Kids With the Greatest Number of Candies
 - Number of Good Pairs
+- How Many Numbers Are Smaller Than the Current Number
+- Find Numbers with Even Number of Digits
+- Final Prices With a Special Discount in a Shop 
+- Check If N and Its Double Exist
