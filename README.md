@@ -34,3 +34,8 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 - Find Numbers with Even Number of Digits
 - Final Prices With a Special Discount in a Shop 
 - Check If N and Its Double Exist
+- Two Sum
+- Contains Duplicate
+- Sort Array By Parity 
+- Squares of a Sorted Array 
+- Plus One 
