@@ -39,3 +39,8 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 - Sort Array By Parity 
 - Squares of a Sorted Array 
 - Plus One 
+- Best Time to Buy and Sell Stock
+- Missing Number
+- Max Consecutive Ones
+- Single Number
+- Build Array from Permutation
