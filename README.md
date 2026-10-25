@@ -44,3 +44,8 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 - Max Consecutive Ones
 - Single Number
 - Build Array from Permutation
+- Maximum Subarray
+- Contains Duplicate II
+- Valid Anagram
+- Reverse String
+- Diagonal Traverse
