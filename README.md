@@ -46,6 +46,13 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 - Build Array from Permutation
 - Maximum Subarray
 - Contains Duplicate II
-- Valid Anagram
-- Reverse String
 - Diagonal Traverse
+- TwoSum II
+- 3Sum
+- Merge Sorted Array
+### Strings
+
+- Reverse String
+- Valid Anagram
+- Valid Palindrome
+- Valid Palindrome II
