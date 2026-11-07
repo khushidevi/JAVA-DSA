@@ -24,7 +24,7 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 
 **Language:** Java  
 **Platform:** LeetCode  
-**Total Solutions:** 37
+**Total Solutions:** 43
 
 ## 1. Array Manipulation & Traversal
 
@@ -36,6 +36,11 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 - Shuffle the Array
 - Plus One
 - Find All Numbers Disappeared in an Array
+- Check If N and Its Double Exist
+- Number of Good Pairs
+- How Many Numbers Are Smaller Than the Current Number 
+- Max Consecutive Ones
+- Contains Duplicate – Brute Force
 
 ## 2. Two Pointers
 
@@ -53,14 +58,15 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 - Running Sum of 1D Array
 - Find Pivot Index
 - Subarray Sum Equals K
+- Range Sum Query – Immutable
+- Contiguous Array (with prefix sum+hashmap)
 
-## 4. Hashing & Frequency Counting
-
+## 4. Hashing
 - Two Sum
 - Contains Duplicate II
-- Check If N and Its Double Exist
-- Number of Good Pairs
-- How Many Numbers Are Smaller Than the Current Number 
+- Top K Frequent Elements
+- Group Anagrams
+- Valid Anagram
 
 ## 5. Binary Search
 
@@ -68,38 +74,40 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 
 ## 6. Sorting
 
-- Final Prices With a Special Discount in a Shop
-- Diagonal Traverse
+- Sort An Array 
 
-## 7. Greedy
+## 7. Greedy and Kadane's Algorithm
 
 - Best Time to Buy and Sell Stock
-- Maximum Subarray (Kadane's Algorithm)
+- Maximum Subarray
+- Maximum Sum Circular Subarray
 
 ## 8. Bit Manipulation
 
 - Single Number
 - Missing Number
 
-## 9. Basic Array Problems
+## 9. Matrix/2D Array
 
-- Max Consecutive Ones
-- Contains Duplicate – Brute Force
+- Diagonal Traverse
 
-## 10. Two Pointers
+## 10. Strings
 
 - Reverse String
 - Valid Palindrome
 - Valid Palindrome II
 
-## 11. Sorting & Frequency Counting
+## 11. Stack
 
-- Valid Anagram
+- Final Prices With a Special Discount in a Shop
 
 ## Learning Progress
 
-- Arrays: 32 solutions
-- Strings: 4 solutions
+- Arrays: 31 solutions
+- Strings: 3 solutions
 - Searching: 1 solution
+- Hashing- 6 solutions
+- Stack- 1 solutions
+- Sorting- 1 solutions
 
 Continuously updating this repository while learning new DSA patterns and improving problem-solving skills.
