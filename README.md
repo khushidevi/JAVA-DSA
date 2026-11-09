@@ -24,7 +24,7 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 
 **Language:** Java  
 **Platform:** LeetCode  
-**Total Solutions:** 43
+**Total Solutions:** 47
 
 ## 1. Array Manipulation & Traversal
 
@@ -75,6 +75,10 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 ## 6. Sorting
 
 - Sort An Array 
+- Height Checker
+- Merge Intervals
+- Relative Sort Array
+- Sort Colors
 
 ## 7. Greedy and Kadane's Algorithm
 
@@ -108,6 +112,6 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 - Searching: 1 solution
 - Hashing- 6 solutions
 - Stack- 1 solutions
-- Sorting- 1 solutions
+- Sorting- 5  solutions
 
 Continuously updating this repository while learning new DSA patterns and improving problem-solving skills.
