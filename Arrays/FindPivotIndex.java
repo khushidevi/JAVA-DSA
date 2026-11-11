@@ -1,0 +1,30 @@
+// LeetCode 724 - Find Pivot Index
+// Problem: Find an index where left sum equals right sum.
+// Approach: Prefix Sum
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
+package Arrays;
+
+public class FindPivotIndex {
+    public int pivotIndex(int[] nums) {
+        int totalSum = 0;
+        int leftSum = 0;
+
+        for (int num : nums) {
+            totalSum += num;
+        }
+
+        for (int i = 0; i < nums.length; i++) {
+            int rightSum = totalSum - leftSum - nums[i];
+
+            if (leftSum == rightSum) {
+                return i;
+            }
+
+            leftSum += nums[i];
+        }
+
+        return -1;
+    }
+}

@@ -24,7 +24,7 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 
 **Language:** Java  
 **Platform:** LeetCode  
-**Total Solutions:** 52
+**Total Solutions:** 55
 
 ## 1. Array Manipulation & Traversal
 
@@ -105,6 +105,9 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 - Permutation in String
 - Remove All Adjacent Duplicates in String
 - Sort Characters By Frequency
+- Longest Palindromic String
+- Longest Common Prefix
+- Find the Index of the first Occurrence in a String
 
 ## 11. Stack
 
@@ -113,7 +116,7 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 ## Learning Progress
 
 - Arrays: 31 solutions
-- Strings: 8 solutions
+- Strings: 11 solutions
 - Searching: 1 solution
 - Hashing- 6 solutions
 - Stack- 1 solutions
