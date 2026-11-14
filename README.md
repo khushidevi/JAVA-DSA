@@ -24,7 +24,7 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 
 **Language:** Java  
 **Platform:** LeetCode  
-**Total Solutions:** 55
+**Total Solutions:** 60
 
 ## 1. Array Manipulation & Traversal
 
@@ -94,7 +94,11 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 ## 9. Matrix/2D Array
 
 - Diagonal Traverse
-
+- Matrix Diagonal Sum
+- Rotate Image
+- Set Matrix Zeroes(Brute Force)
+- Spiral Matrix
+- Transpose Matrix
 ## 10. Strings
 
 - Reverse String
@@ -115,7 +119,7 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 
 ## Learning Progress
 
-- Arrays: 31 solutions
+- Arrays: 36 solutions
 - Strings: 11 solutions
 - Searching: 1 solution
 - Hashing- 6 solutions
