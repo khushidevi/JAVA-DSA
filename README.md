@@ -24,7 +24,7 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 
 **Language:** Java  
 **Platform:** LeetCode  
-**Total Solutions:** 60
+**Total Solutions:** 62
 
 ## 1. Array Manipulation & Traversal
 
@@ -117,9 +117,14 @@ I practice problems from LeetCode and other coding platforms to improve my probl
 
 - Final Prices With a Special Discount in a Shop
 
+## 12. Sliding Window
+
+- Minimum size subarray sum
+- Maximum average subarray I
+
 ## Learning Progress
 
-- Arrays: 36 solutions
+- Arrays: 38 solutions
 - Strings: 11 solutions
 - Searching: 1 solution
 - Hashing- 6 solutions
